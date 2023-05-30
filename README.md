@@ -48,6 +48,7 @@
 
 ### ⚙️ JS Frameworks & Libraries
 ![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=node.js)
+&nbsp; ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 &nbsp; ![ExpressJs](https://img.shields.io/badge/-ExpressJs-333333?style=flat&logo=express)
 &nbsp; ![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=next.js)
 &nbsp; ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
