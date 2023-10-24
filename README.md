@@ -56,8 +56,6 @@
 &nbsp; ![ReactQuery](https://img.shields.io/badge/-ReactQuery-333333?style=flat&logo=react-query)
 &nbsp; ![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vue.js)
 &nbsp; ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
-&nbsp; ![Babel](https://img.shields.io/badge/-Babel-333333?style=flat&logo=babel)
-&nbsp; ![Gulp](https://img.shields.io/badge/-Gulp-333333?style=flat&logo=gulp)
 &nbsp; ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
 ----------------------------------------------------------------------------------------
