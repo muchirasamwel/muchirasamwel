@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samwel Muchira Benard</h1>
 <h3 align="center">A passionate Software Engineer (Mobile & Web)</h3>
 
-- 🔭 I’m currently working on **Neatflix (Netflix clone) (Stack: Typescript, React, NextJs, Tailwind and SCSS)**
+- 🔭 I’m currently working on **Neatflix (Netflix clone) (Stack: NodeJS, Typescript, React, NextJs, Tailwind and SCSS)**
 
 - 🌱 I’m currently learning **Next Js & Tailwind**
 
