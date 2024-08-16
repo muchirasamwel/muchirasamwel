@@ -84,7 +84,7 @@
 
 <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muchirasamwel&count_private=true&show_icons=true&theme=transparent&include_all_commits=false&layout=compact" alt="muchirasamwel" /></p>
 
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=muchirasamwel&count_private=true&show_icons=true&theme=transparent&include_all_commits=false,&hide=issues,contribs" alt="muchirasamwel" /></p>
+<!-- <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=muchirasamwel&count_private=true&show_icons=true&theme=transparent&include_all_commits=false,&hide=issues,contribs" alt="muchirasamwel" /></p> -->
 
 <p align='center'><img align="center" src="https://streak-stats.demolab.com/?user=muchirasamwel&theme=transparent&mode=weekly" alt="muchirasamwel" /></p>
 
