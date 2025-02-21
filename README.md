@@ -33,7 +33,7 @@
   &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   &nbsp; ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
   &nbsp; ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-  &nbsp; ![Solidity](https://img.shields.io/badge/-Android-333333?style=flat&logo=solidity)
+  &nbsp; ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
 
 ----------------------------------------------------------------------------------------
 
