@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next Js & Tailwind**
 
-- 👨‍💻 Some of my projects are available at [portfolio](finelogiq.vercel.app)
+- 👨‍💻 Some of my projects are available at [portfolio](https://finelogiq.vercel.app/)
 
 - 💬 Ask me about **JS, TS, React, React Native, CSS**
 
