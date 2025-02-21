@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samwel Muchira Benard</h1>
 <h3 align="center">A passionate Software Engineer (Mobile & Web)</h3>
-- 🌱 I’m currently learning **Solidity & ethersJs**
+
+- 🌱 I’m currently learning **Solidity & ethersJS**
 
 - 👨‍💻 Some of my projects are available at [portfolio](https://finelogiq.vercel.app/)
 
