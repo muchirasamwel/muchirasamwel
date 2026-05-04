@@ -5,11 +5,11 @@
 
 - 👨‍💻 Some of my projects are available at [portfolio](https://finelogiq.vercel.app/)
 
-- 💬 Ask me about **JS, TS, React, React Native, CSS**
+- 💬 Ask me about **JS, TS, React, React Native, CSS, PHP**
 
 - 📫 How to reach me **muchirasamwel@gmail.com**
 
-- ⚡ Fun fact **While I have a particular interest and aptitude for frontend development, I am also comfortable working on the backend with Node.js. My experience and skills as a Javascript Engineer encompass both frontend and backend development, enabling me to contribute to full-stack software projects.**
+- ⚡ Fun fact **While I have a particular interest and aptitude for frontend development, I am also comfortable working on the backend with Node.js and Laravel. My experience and skills as a Javascript Engineer encompass both frontend and backend development, enabling me to contribute to full-stack software projects.**
 
 ----------------------------------------------------------------------------------------
 
